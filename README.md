@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sibi 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sibi-seeni&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibi-seeni&theme=tokyonight" alt="GitHub streak" />
