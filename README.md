@@ -21,6 +21,41 @@ Built a **3-layer LSTM** model on 21k+ contracts with 11 financial features, ach
 #### [Sentiment Analysis of NFTs on Reddit](https://github.com/sibi-seeni/nft-sentiment-nlp)
 Developed **Bi-LSTM with Word2Vec embeddings** on 2M+ reviews, achieving **83.3% accuracy** vs BERT-based transfer models.
 
+### Previous Experience
+
+<p align="center">
+
+  <!-- PwC -->
+  <a href="https://www.pwc.com/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFVfAbYbmcpvA/company-logo_200_200/B4EZaB6j58H0AI-/0/1745936334912/pwc_logo?e=1762992000&v=beta&t=SaSB99Cl9YHFD3cH1fzJ9GWEVAB33AJ7Ag7iLo29gxA" alt="PwC" width="80"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Verotech Solutions -->
+  <a href="http://verotechsolutions.net" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHV5htpMKqHVQ/company-logo_200_200/company-logo_200_200/0/1630594473341/verotech_solutions_llc_logo?e=1762992000&v=beta&t=8dorPEz5aBxvnuHMU9-XmtI_8MG-QIGDW1lnyXA0Ku0" alt="Verotech Soltions LLC" width="80"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- ITC -->
+  <a href="https://itcportal.com/itc-businesses/agri-business.html" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/C510BAQHnHPugbjzbAA/company-logo_200_200/company-logo_200_200/0/1630582934313/itc_limited_logo?e=1762992000&v=beta&t=juVRXk2HBfkxygfhPPn2FO9edpYGEqd0Wtp8iW33beY" alt="ITC" width="80"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- IIT Kharagpur -->
+  <a href="https://www.iitkgp.ac.in/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/C4D0BAQE0lxIeTKBTAw/company-logo_200_200/company-logo_200_200/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1762992000&v=beta&t=vnS-4ZTeflSdpb4bnDDvlidACLWh-oa6-TU-MkarNkE" alt="IIT Kharagpur" width="80"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Success4 Inc -->
+  <a href="https://success4.us/" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/C560BAQFudnHGo0zTzQ/company-logo_200_200/company-logo_200_200/0/1671798396169/success4_inc_logo?e=2147483647&v=beta&t=76MePtgM78c0lk9_ja1HD9Nh9F1zEetvD5xfYnPZPIY" alt="Success4 Inc" width="80"/>
+  </a>
+
+</p>
+
 ### Certifications
 
 - **Power BI Data Analyst** – Microsoft  
