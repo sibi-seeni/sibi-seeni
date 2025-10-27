@@ -15,7 +15,7 @@
 
 ### Featured Projects
 
-#### [Financial Modeling of TSLA Options using ML on Black-Scholes](https://github.com/sibi-seeni/tsla-options-forecasting)
+#### [Financial Modeling of TSLA Options using ML on Black-Scholes](https://github.com/sibi-seeni/TSLA_Option_Modeling_BS)
 Built a **3-layer LSTM** model on 21k+ contracts with 11 financial features, achieving **46% MAPE improvement** over regression and **1.8% better accuracy** than XGBoost.
 
 #### [Sentiment Analysis of NFTs on Reddit](https://github.com/sibi-seeni/nft-sentiment-nlp)
@@ -28,7 +28,7 @@ Developed **Bi-LSTM with Word2Vec embeddings** on 2M+ reviews, achieving **83.3%
 - **Python & Pandas for Data Engineering** – Duke University  
 - **Time Series Modeling** – LinkedIn Learning
 
-### Technologies & Tools I Use
+### Tech Toolbox
 
 <p align="center">
 
