@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sibi Seenivasan 👋</h1>
+<h1 align="center">Hi, I'm Sibi 👋</h1>
 <h3 align="center">Applied Data Science Graduate Student @ University of Florida</h3>
 
 <p align="center">
