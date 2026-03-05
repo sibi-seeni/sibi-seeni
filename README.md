@@ -100,10 +100,6 @@ Developed **Bi-LSTM with Word2Vec embeddings** on 2M+ reviews, achieving **83.3%
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibi-seeni&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibi-seeni&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
 ---
 
 ### 🤝 Let’s Connect
