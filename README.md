@@ -26,18 +26,19 @@ Developed **Bi-LSTM with Word2Vec embeddings** on 2M+ reviews, achieving **83.3%
 
 ### Previous Experience
 
+- [Verotech Solutions LLC](http://verotechsolutions.net)  - Data & AI Engineering Intern
+- [UF Herbert Wertheim College of Engineering](https://eed.eng.ufl.edu/) - Teaching Assistant
+- [UF IC3 Lab](https://ic3.center.ufl.edu/about/ic3-research-labs/) - Graduate Student Assistant
 - [PwC](https://www.pwc.com/) - Technology Consulting Associate
-- [Verotech Solutions LLC](http://verotechsolutions.net)  - Data Science Intern
 - [ITC Limited](https://itcportal.com/itc-businesses/agri-business.html) – Project Management Intern
 - [IIT Kharagpur](https://www.iitkgp.ac.in/) - Undergraduate Research Assistant
 - [Success4 Inc](https://success4.us/) - Data Engineering Intern
 
 ### Certifications
 
-- **Power BI Data Analyst** – Microsoft  
 - **Orchestrating GenAI Workflows** – DeepLearning.AI  
 - **Python & Pandas for Data Engineering** – Duke University  
-- **Time Series Modeling** – LinkedIn Learning
+- **Power BI Data Analyst** – Microsoft  
 
 ### Tech Toolbox
 
