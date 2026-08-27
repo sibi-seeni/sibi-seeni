@@ -6,11 +6,11 @@
   Focused on <b>LLMs, Classic</b> and <b>Applied Machine Learning</b><br>
   Currently researching <b>AI accessibility</b> and <b>interdisciplinary ML applications</b>
 </p>
-
 <p align="center">
   <a href="mailto:sibiseenivasan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sibi-seenivasan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sibi-seeni"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"/></a>
+  <!-- <img src="https://komarev.com/ghpvc/?username=rohanbagulwar&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbagulwar" /> -->
 </p>
 
 ### Featured Projects
@@ -89,16 +89,6 @@ Developed **Bi-LSTM with Word2Vec embeddings** on 2M+ reviews, achieving **83.3%
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="90" alt="Databricks"/>
   </a>
 
-</p>
-
----
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibi-seeni&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibi-seeni&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
