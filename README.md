@@ -15,7 +15,7 @@
 
 ### Featured Projects
 
-#### [Real-Time Product Launch Radar](https://github.com/sibi-seeni/realtime-product-radar))
+#### [Real-Time Product Launch Radar](https://github.com/sibi-seeni/realtime-product-radar)
 An end-to-end, **event-driven streaming pipeline** that captures live social commentary from the Bluesky Jetstream firehose, runs low-latency INT8 ONNX sentiment inference, stores time-series aggregations in ClickHouse, and visualizes real-time product sentiment velocity in Grafana.
 
 #### [Prof-Dash](https://github.com/realasuarez/gator-hack-final-app)
