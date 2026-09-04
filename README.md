@@ -15,14 +15,14 @@
 
 ### Featured Projects
 
+#### [Real-Time Product Launch Radar](https://github.com/sibi-seeni/realtime-product-radar))
+An end-to-end, **event-driven streaming pipeline** that captures live social commentary from the Bluesky Jetstream firehose, runs low-latency INT8 ONNX sentiment inference, stores time-series aggregations in ClickHouse, and visualizes real-time product sentiment velocity in Grafana.
+
 #### [Prof-Dash](https://github.com/realasuarez/gator-hack-final-app)
 Engineered a FastAPI–React AI analytics platform for educators, integrating Whisper-v3 and LLaMA 3.3 for lecture transcription and topic analysis, with seamless REST–frontend sync and optimized SQL-based insights.
 
 #### [Financial Modeling of TSLA Options using ML on Black-Scholes](https://github.com/sibi-seeni/TSLA_Option_Modeling_BS)
 Built a **Time Series** model on 21k+ contracts with 11 financial features, achieving **46% MAPE improvement** over regression using XGBoost and **1.8% better accuracy** than a 3-layer Bi-LSTM model (built from scratch).
-
-#### [Sentiment Analysis of NFTs on Reddit](https://github.com/sibi-seeni/nft-sentiment-nlp)
-Developed **Bi-LSTM with Word2Vec embeddings** on 2M+ reviews, achieving **83.3% accuracy** vs BERT-based transfer models.
 
 ### Previous Experience
 
