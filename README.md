@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  AI and data engineer with client-facing delivery across <b>enterprise consulting, defense, and regulated medtech</b>.<br>
+  AI and data engineer with client-facing delivery across <b>enterprise consulting, financial servies, defense, and regulated medtech</b>.<br>
   I've taken a legacy warehouse to a Spark lakehouse through go-live, and now I'm focused on <b>AI security</b>:<br>
   making agentic and RAG systems robust enough for high-stakes deployments.
 </p>
