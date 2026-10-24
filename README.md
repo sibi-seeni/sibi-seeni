@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="mailto:sibiseenivasan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sibi-seenivasan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sibi-seeni"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sibi-seenivasan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.github.com/sibi-seeni"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -188,10 +188,10 @@ Upload a lecture, get a transcript, topics covered, and progress against the syl
 
 ### Education & Recognition
 
-| | |
-|---|---|
-| **University of Florida** · MS, Applied Data Science · *May 2027* | GPA **4.0** |
-| **NIT Trichy** · B.Tech, Electrical & Electronics Engineering · *May 2024* | GPA 3.58 |
+| |
+|---|
+| **University of Florida** · MS, Applied Data Science · *May 2027* |
+| **NIT Trichy** · B.Tech, Electrical & Electronics Engineering · *May 2024* |
 
 - UF Herbert Wertheim College of Engineering Achievement Award
 - Microsoft Certified: Power BI Data Analyst Associate · Python & Pandas for Data Engineering (Duke) · Orchestrating GenAI Workflows (DeepLearning.AI)
