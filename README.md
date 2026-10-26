@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary><b>Graduate Teaching & Research Assistant</b> · University of Florida (IC3 Lab; Engineering Education) · <i>Nov 2025 – Present</i></summary>
+<summary><b>Graduate Teaching & Research Assistant</b> · University of Florida (IC3 Lab; LATTE Lab - Engineering Education) · <i>Nov 2025 – Present</i></summary>
 <br>
 
 - Built an agent-based **NL2SQL tool** (LangChain) giving an LLM function-calling access to the MIMIC critical-care database
@@ -81,7 +81,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### Xposure: Accessible Portfolio Exposure Graph
+#### [Xposure: Accessible Portfolio Exposure Graph](https://github.com/sibi-seeni/accessible-portfolio-graph)
 **Honorable Mention, Blackstone challenge @ ShellHacks 2026** (solo, 36 hrs)
 
 Shows how "diversified" holdings are secretly linked, like utilities and semiconductors through data-center power demand. A PostgreSQL knowledge graph with **20+ FastAPI endpoints** for multi-hop traversal and shock propagation, plus a **Snowflake Cortex agent** that proposes new relationships for human approval. Built for blind and low-vision investors with narration and sonification.
@@ -91,7 +91,7 @@ Shows how "diversified" holdings are secretly linked, like utilities and semicon
 </td>
 <td width="50%" valign="top">
 
-#### Trust-Aware Graph Retrieval *(in progress)*
+#### [Trust-Aware Graph Retrieval](https://github.com/sibi-seeni/trained-gnn-rag) *(in progress)*
 UF Applied ML II architecture project → Spring 2027 capstone
 
 A GNN retriever with attention that models documents and evidence as a graph, learning to **down-weight poisoned or untrustworthy sources** before they reach the LLM in RAG or agent-memory pipelines. Complements the adversarial RAG work with NIWC.
@@ -103,7 +103,7 @@ A GNN retriever with attention that models documents and evidence as a graph, le
 <tr>
 <td width="50%" valign="top">
 
-#### The Half-Life of Outrage
+#### [The Half-Life of Outrage](https://github.com/sibi-seeni/half-life-of-outrage)
 **Submitted to ECJ Data Science (Elsevier)**
 
 Aspect-based sentiment pipeline over **160k+ YouTube comments** across 905 videos using LLaMA 3.3 70B and RoBERTa (Gwet's AC1 of 0.98–0.99 vs. gold labels). Exponential decay models show AI-voice controversies fade **4× faster** (0.48 days) than general game discourse.
